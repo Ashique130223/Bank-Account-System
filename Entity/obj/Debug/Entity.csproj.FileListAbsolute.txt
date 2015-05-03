@@ -1,0 +1,5 @@
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\NewBankAccount\Entity\bin\Debug\Entity.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\NewBankAccount\Entity\bin\Debug\Entity.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\NewBankAccount\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\NewBankAccount\Entity\obj\Debug\Entity.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\NewBankAccount\Entity\obj\Debug\Entity.pdb
